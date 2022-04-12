@@ -13,7 +13,17 @@ Link to the GitHub repository
 Screenshot of the deployed application
 Have a polished, mobile-responsive user interface.
 
-This is a showcase of what has changed 
+*What has changed:
+•	Have changed header to include hover effect and design of it
+
+•	Added photo to About me page.
+•	Updated my work portfolio to include project 1 which we did as a group, word game I created, weather app homework and also the daily planner homework.
+
+•	Added icons with links embedded into them on the contact section, and added a link to my linknd profile.
+
+
+This is a showcase of what has changed
+
 
 ![1](https://user-images.githubusercontent.com/98126694/162892216-bddee399-2943-4454-b8c0-b0bd3ee99b85.png)
 
