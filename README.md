@@ -14,3 +14,11 @@ Screenshot of the deployed application
 Have a polished, mobile-responsive user interface.
 
 This is a showcase of what has changed 
+
+![1](https://user-images.githubusercontent.com/98126694/162892216-bddee399-2943-4454-b8c0-b0bd3ee99b85.png)
+
+![2](https://user-images.githubusercontent.com/98126694/162892236-f7c25839-d674-41a4-8e04-a960299e2308.png)
+
+![3](https://user-images.githubusercontent.com/98126694/162892253-82b66a9f-a6ab-4001-b003-e825ae3ee464.png)
+
+![4](https://user-images.githubusercontent.com/98126694/162892278-2247fb6d-3e8b-488e-87a3-9a2ed8b1f232.png)
