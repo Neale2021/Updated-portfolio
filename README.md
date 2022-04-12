@@ -24,7 +24,7 @@ Have a polished, mobile-responsive user interface.
 
 Link to git hub: https://github.com/Neale2021/Updated-portfolio
 
-link to live page: 
+link to live page:  https://neale2021.github.io/Updated-portfolio/
 
 This is a showcase of what has changed
 
