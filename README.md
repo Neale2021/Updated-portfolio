@@ -33,3 +33,5 @@ This is a showcase of what has changed
 ![3](https://user-images.githubusercontent.com/98126694/162892253-82b66a9f-a6ab-4001-b003-e825ae3ee464.png)
 
 ![4](https://user-images.githubusercontent.com/98126694/162892278-2247fb6d-3e8b-488e-87a3-9a2ed8b1f232.png)
+
+<img width="1787" alt="Screen Shot 2022-04-12 at 4 34 27 pm" src="https://user-images.githubusercontent.com/98126694/162896328-fa389899-45fa-4e31-bd4f-8468f929cd65.png">
