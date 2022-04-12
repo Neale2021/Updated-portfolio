@@ -14,6 +14,7 @@ Screenshot of the deployed application
 Have a polished, mobile-responsive user interface.
 
 *What has changed:
+
 •	Have changed header to include hover effect and design of it
 
 •	Added photo to About me page.
