@@ -46,8 +46,12 @@ body {
   color: white;
 }
 
-.topnav .icon {
-  display: none;
+.topnav a .icon {
+   background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 
 .header h1 {
@@ -142,6 +146,7 @@ p {
   .topnav a.icon {
     float: right;
     display: block;
+
   }
 }
 
