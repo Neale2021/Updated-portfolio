@@ -33,6 +33,7 @@ https://neale2021.github.io/Project-1-Group-1-Movie-Box/
 ![3](https://user-images.githubusercontent.com/98126694/167372283-03e52df9-132f-479b-be84-d91a4addc5ea.png)
 https://neale2021.github.io/Homework-week-6-Weather-on-the-go/ 
 
+* Click on the each image in the contact page it allows you to either email me, phone me, go to my Github account or my linkedin page.
 
 Link to git hub: https://github.com/Neale2021/Updated-portfolio
 
