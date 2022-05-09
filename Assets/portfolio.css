@@ -61,6 +61,22 @@ body {
     flex: 100%;
     font-size: 48px;
   }
+h2 {
+color: greenyellow;
+
+}
+h3 {
+  color: greenyellow;
+  
+  }
+h4 {
+    color: greenyellow;
+    
+    }
+h5 {
+      color: greenyellow;
+      
+      }
   .header {
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

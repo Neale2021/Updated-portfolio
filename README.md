@@ -22,6 +22,9 @@ Have a polished, mobile-responsive user interface.
 
 •	Added icons with links embedded into them on the contact section, and added a link to my linknd profile.
 
+* If you click on the projects in the portfolio it will take you the live page.
+
+
 Link to git hub: https://github.com/Neale2021/Updated-portfolio
 
 link to live page:  https://neale2021.github.io/Updated-portfolio/
